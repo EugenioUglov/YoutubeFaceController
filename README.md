@@ -4,7 +4,7 @@ Control YouTube videos with your face. You can to choose next or previous video 
 <ul>
 My contacts:
   <li>gmail: eugeniouglov@gmail.com</li>
-  <li>facebook: www.facebook.com</li>
+  <li>facebook: https://www.facebook.com/jekuglov</li>
 </ul>
 
 <b>Watch the video to learn more how it works:</b>
