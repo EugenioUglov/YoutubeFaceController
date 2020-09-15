@@ -13,4 +13,4 @@ My contacts:
 <div align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/XMejq7T69QI"><img src="https://i.ibb.co/JnNtj1M/youtubefacecontroller.png" alt="youtube video tutorial. How to install and use the extension"></a>
 </div>
-<li>Link: https://youtu.be/XMejq7T69QI</li>
+<i>Link: https://youtu.be/XMejq7T69QI</i>
