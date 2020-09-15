@@ -1,5 +1,5 @@
 # YoutubeFaceController
-Control YouTube videos with your face. You can to choose next or previous video when your face rotate to the right or left side. 
+Extension for browser Opera to control YouTube videos with your face. You can to choose next or previous video when your face rotate to the right or left side. 
 <br><br><i><mark>Used technologies: js, open source library for tracks a face and outputs the coordinate: https://github.com/auduno/clmtrackr</mark></i>
 <ul>
 My contacts:
